@@ -1,0 +1,7 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Sitemap: https://www.lotusconstructions.in/sitemap.xml
+Allow: /
+Allow: /about
+Allow: /services
+Allow: /contact-us
